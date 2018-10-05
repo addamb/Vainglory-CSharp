@@ -14,7 +14,7 @@ namespace VaingloryCSharpTests
         [TestMethod]
         public void Test_AbstactApi_CheckAPIStatus()
         {
-            string token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2NDJlNGI1MC05NjhmLTAxMzYtOWU0OS0wYTU4NjQ2MGZlYWQiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTM2NTE5MTM0LCJwdWIiOiJzZW1jIiwidGl0bGUiOiJ2YWluZ2xvcnkiLCJhcHAiOiJ0ZXN0c2RrIiwic2NvcGUiOiJjb21tdW5pdHkiLCJsaW1pdCI6MTB9.BNcA0qSiNnWgTZ3T23osZfiIj2HHG_ZMCieMQmWpTVA";
+            string token = ""; // Add Token Here
             string versionReleasedAtDate = "2018-04-05T15:18:52Z";
             string version = "v7.10.2";
 
